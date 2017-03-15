@@ -4,3 +4,4 @@ LINE2
 LINE4
 LINE3
 asdasdasd
+new line
